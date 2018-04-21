@@ -1,20 +1,20 @@
 # CreaterVirus
 
+
 Thank To Ciku
 -------------
 
-#INSTALL
+# INSTALL
 ```
 apt install python2
 pip2 install mechanize
 ```
-
-#USAGE
+<br>
+# USAGE
 ```
 python2 cr ereater.py
 ```
-
-#IMAGE
+<br>
+# IMAGE
 ______________________
 <img src="/.image/Create.png"/>
-
